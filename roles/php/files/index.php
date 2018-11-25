@@ -4,5 +4,6 @@
     <body>
         <h1><?php echo "Welcome to DevOps on AWS. This text was generated using PHP 7" ?></h1>
         <h2><?php echo "This change will be reflected using ansible pull again" ?>
+        <h2><?php echo "This is a cool technology to know!!!" ?>
     </body>
 </html>
